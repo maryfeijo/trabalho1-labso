@@ -25,9 +25,10 @@ tail -3 access.log
 sequencia 1, 2 e 3. 
 Ex.: alex1.txt, alex2.txt, alex3.txt. Que comandos você utilizou?
 Resposta:
-mkdir maryana1
-mkdir maryana2
-mkdir maryana3
+touch maryana1
+touch maryana2
+touch maryana3
+
 
 5 - Crie 1 pasta com seu nome+diadenascimento (ex.:alex25) e
 copie os 3 arquivos criandos 
